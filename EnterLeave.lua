@@ -9,10 +9,8 @@ FuRegisterClass("EnterLeave", CT_Tool, {
     REG_NoMotionBlurCtrls = true,
     REG_NoBlendCtrls = true,
     REG_NoObjMatCtrls = true,
-    -- REG_Fuse_NoEdit = true,
-    -- REG_Fuse_NoReload = true,
-    -- REG_OpTileColor = { G = 0.66, R = 0.89, B = 0.11 },
-    -- REGS_OpTileColor = "yellow",
+    REG_Fuse_NoEdit = true,
+    REG_Fuse_NoReload = true,
 })
 
 
